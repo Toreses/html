@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My site</title>
+ </head>
+ <body>
+<h1 style="position: relative;text-align: center;">Lesson schedule</h1>
+<img style="position: relative;;height: 200px;left 45%;" src="https://inv.vntu.edu.ua/ukr/images/stories/news/00-wint-18-19/27-02-19-den-karieri-vntu-00.png">
+<nav>
+<ul>
+    <h1>
+         <li><a href="https://jetiq.vntu.edu.ua/">Main site</a></li>
+         <li><a href="https://wiki.vntu.edu.ua/uk/%D0%A0%D0%B5%D1%94%D1%81%D1%82%D1%80%D0%B0%D1%86%D1%96%D1%8F_%D0%B2_JetIQ">About site</a></li>
+         <li><a href="https://jetiq.vntu.edu.ua/departs/dep_list.php">Vntu map</a></li>
+    </h1>
+</ul>
+</nav>     
+</body>
+</html>
+<ol>
+    <li>From Magdych Olexandrlesson schedule for 5KN-22b</li>
+    <li>Lesson schedule for 5KN-22b</li>
+    <li>In the laboratory work 2</li>
+<table border="1">
+    <tr> 
+        <th> Week 5</th>
+        <th>08:15 - 09:00</th>
+        <th>09:15 - 10:00</th>
+        <th>10:15 - 11:00</th>
+        <th>11:15 - 12:00</th>
+        <th>12:15 - 13:00</th>
+        <th>13:15 - 14:00</th>
+        <th>14:15 - 15:00</th>
+        <th>15:10 - 15:55</th>
+        <th>16:05 - 16:50</th>
+        </tr>
+        <tr>
+           <th></th>
+            <th></th>
+            <th></th>
+            <th>2240</th>
+            <th>2240</th>
+            <th>5122</th>
+            <th>5122</th>
+            <th>5122</th>
+            <th>5122</th>
+            <th></th>
+        </tr>
+            <tr>
+            <th>17.10</th>
+            <td></td>
+            <td></td>
+            <td>Computer networks and cloud technologies</td>
+            <td>Computer networks and cloud technologies</td>
+            <td>Higher mathematics</td>
+            <td>Higher mathematics</td>
+            <td>Web-technologies</td>
+            <td>Web-technologies</td>
+            <td></td>
+            </tr>
+             <tr>
+           <th></th>
+           <th></th>
+            <th></th>
+            <th>3425</th>
+            <th>3425</th>
+            <th></th>
+            <th>11</th>
+            <th>11</th>
+            <th>2242</th>
+            <th></th>
+             </tr>
+            <tr>
+                <th>18.10</th>
+                <td></td>
+                <td></td>
+                <td>English</td>
+                <td>English</td>
+                <td></td>
+                <td>Computer networks and cloud technologies</td>
+                <td>Computer networks and cloud technologies</td>
+                <td>Entry to the profession</td>
+                <td></td>
+            </tr>
+            <tr> 
+                <th></th>
+                <th></th>
+                <th>2233</th>
+                <th>5301</th>
+                <th>2364</th>
+                <th>5122</th>
+                <th>5122</th>
+                <th>5122</th>
+                <th>5301</th>
+                <th>5301</th>
+             </tr>
+            <tr>
+                <th>19.10</th>
+                <td></td>
+                <td>Operating systems and mobile platforms</td>
+                <td>Operating systems and mobile platforms</td>
+                <td>History and culture of Ukraine</td>
+                <td>Higher mathematics</td>
+                <td>Higher mathematics</td>
+                <td>Computer networks and cloud technologies</td>
+                <td>Web-technologies</td>
+                <td>Web-technologies</td>
+            </tr>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th>5122</th>
+                <th>5122</th>
+                <th></th>
+                <th>2363</th>
+                <th>2240</th>
+                <th>2240</th>
+                <th></th>
+            </tr>
+            <tr>
+                <th>20.10</th>
+                <td></td>
+                <td></td>
+                <td>Operating systems and mobile platforms</td>
+                <td>Operating systems and mobile platforms</td>
+                <td></td>
+                <td>History and culture of Ukraine</td>
+                <td>Computer networks and cloud technologies</td>
+                <td>Computer networks and cloud technologies</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th></th>
+                <th>2165</th>
+                <th>2165</th>
+                <th>GYM</th>
+                <th>GYM</th>
+                <th></th>
+                <th>5122</th>
+                <th>5122</th>
+                <th></th>
+                <th></th>
+            </tr>
+                <tr>
+                <th>21.10</th>
+                <td>Higher mathematics</td>
+                <td>Higher mathematics</td>
+                <td>PE</td>
+                <td>PE</td>
+                <td></td>
+                <td>Entry to the profession</td>
+                <td>Algorithmization and programming</td>
+                <td></td>
+                <td></td>
+                </table>
+               <body>
+                   <iframe width="560" height="315" 
+                   src="https://www.youtube.com/embed/tGKlj-g6dWY?start=01" title="YouTube video player" 
+                   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+               </body>
+               </html>
